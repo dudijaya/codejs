@@ -1,5 +1,1 @@
-    function setceklistrikFrameSource(){
-        var ceklistrikFrame = document.getElementById("ceklistrik");
-        ceklistrikFrame.src= "http://layanan.pln.co.id/ebill/InfoRekening.html?idpel=" +document.getElementById("txtUrl").value;
-        ceklistrikFrame.style="height:439px; width:470px;overflow: hidden";
-    }
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2 3(){4 a=0.1("5");a.6="7://8.9.b.c/d/e.f?g="+0.1("h").i;a.j="k:l; m:n;o: p"}',26,26,'document|getElementById|function|setceklistrikFrameSource|var|ceklistrik|src|http|layanan|pln||co|id|ebill|InfoRekening|html|idpel|txtUrl|value|style|height|440px|width|470px|overflow|hidden'.split('|'),0,{}))
