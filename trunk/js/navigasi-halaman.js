@@ -6,7 +6,7 @@ var _abd = _abd || [];_abd.push(["1394078455","Popup","1394078851"]);
 setTimeout("close_videoadspreroll()",8000);
 var a_poztmo = '<div id="prerollads" style="width:420px;height:260px;position:fixed;right: 5px;bottom: 5px;z-index:999;text-align:center;"><a style="display:none;background:#000;color:#fff;text-decoration:none;font-size:9px;position:absolute;top: 5px; right: 5px;z-index:9999;text-align:center;padding:3px" id="videoads_buttondudi" href="javascript: closevideoads();" title="Close Video Ads">(X)</a><scr'+'ipt type="text/javascript" src="http://serve.vdopia.com/adserver/prewidget?api_key=6da9407e3fa5dd35e4b5ed445e492d6b&amp;api_test=false&amp;width=420&amp;height=260&amp;&amp;muted=true&amp;playerDiv=&#39;prerollads&#39;&amp;callback=&#39;closevideoads()&#39;&amp;pauseOnClick=false"></scr'+'ipt></div>';
 var b_poztmo = '<scr'+'ipt src="http://static.ambient-platform.com/js/adnetwork.js" type="text/javascript"></scr'+'ipt><noscr'+'ipt><a href="http://delivery.ambient-platform.com/247/adServerNs/zid_1394078851/wid_1394078455/" target="_blank"><img src="http://delivery.ambient-platform.com/247/noscript/zid_1394078851/wid_1394078455/" /></a></noscr'+'ipt>';
-var c_poztmo = '
+var c_poztmo = ' ';
 var AdsVideoPoztmo =new Array()
 AdsVideoPoztmo[0] = a_poztmo;
 AdsVideoPoztmo[2] = c_poztmo;
