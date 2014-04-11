@@ -9,13 +9,10 @@ var b_poztmo = '<scr'+'ipt src="http://static.ambient-platform.com/js/adnetwork.
 var c_poztmo = ' ';
 var AdsVideoPoztmo =new Array()
 AdsVideoPoztmo[0] = a_poztmo;
-AdsVideoPoztmo[2] = c_poztmo;
+AdsVideoPoztmo[1] = c_poztmo;
 AdsVideoPoztmo[2] = b_poztmo;
 AdsVideoPoztmo[3] = c_poztmo;
 var QPoztmo = AdsVideoPoztmo.length;
 var SelectAdsPoztmo=Math.round(Math.random()*(QPoztmo-1));
 function ShowAdsPoztmo(){document.write(AdsVideoPoztmo[SelectAdsPoztmo]);}
 ShowAdsPoztmo();
-
-
-
